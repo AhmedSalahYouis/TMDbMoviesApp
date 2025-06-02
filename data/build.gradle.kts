@@ -31,7 +31,7 @@ android {
         }
 
         buildConfigField("String", "BASE_URL", "\"$baseUrl\"")
-        buildConfigField("String", "API_KEY", "\"88a010fd97a2c6b815f04b86b0f25c03\"")
+        buildConfigField("String", "API_KEY", "Your API Key")
     }
 
     buildTypes {
